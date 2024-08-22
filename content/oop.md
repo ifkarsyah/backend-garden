@@ -1,0 +1,1 @@
+https://medium.com/@dharshib.8/solid-principles-explained-in-java-5b9fca1f5540

@@ -1,0 +1,1 @@
+https://medium.com/javarevisited/most-used-distributed-system-patterns-d5d90ffedf33
